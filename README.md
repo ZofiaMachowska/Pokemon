@@ -1,6 +1,6 @@
 # Pokmon
-Symulator walki pomiędzy Pokmonami (wszelkie zbieżności nazw przypadkowe). 
-Gra dla dwóch graczy. Serwer pozwala klientom włączyć się do gry, tworzy osobny wątek dla 
+W ramach zajęć stworzyliśmy symulator walki pomiędzy Pokmonami inspirując się grą Pokemony i jej mechanizmami
+walki. Gra dla dwóch graczy. Serwer pozwala klientom włączyć się do gry, tworzy osobny wątek dla 
 każdej pary i pozwala im grać. 
 
 
